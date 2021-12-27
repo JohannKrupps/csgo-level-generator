@@ -1,0 +1,15 @@
+entity
+{
+	"id" "21628"
+	"classname" "info_deathmatch_spawn"
+	"angles" "0 0 0"
+	"enabled" "1"
+	"origin" "xRan yRan 368"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}

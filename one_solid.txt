@@ -1,0 +1,77 @@
+	solid
+	{
+		"id" "aSolidID"
+		side
+		{
+			"id" "aSideID0"
+			"plane" "(startX endY endZ) (endX endY endZ) (endX startY endZ)"
+			"material" "DEV/GRAYGRID"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 256] 0.25"
+			"vaxis" "[0 -1 0 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "aSideID1"
+			"plane" "(startX startY startZ) (endX startY startZ) (endX endY startZ)"
+			"material" "DEV/GRAYGRID"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 -1 0 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "aSideID2"
+			"plane" "(startX endY endZ) (startX startY endZ) (startX startY startZ)"
+			"material" "DEV/GRAYGRID"
+			"uaxis" "[0 1 0 -256] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "aSideID3"
+			"plane" "(endX endY startZ) (endX startY startZ) (endX startY endZ)"
+			"material" "DEV/GRAYGRID"
+			"uaxis" "[0 1 0 -256] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "aSideID4"
+			"plane" "(endX endY endZ) (startX endY endZ) (startX endY startZ)"
+			"material" "DEV/GRAYGRID"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		side
+		{
+			"id" "aSideID5"
+			"plane" "(endX startY startZ) (startX startY startZ) (startX startY endZ)"
+			"material" "DEV/GRAYGRID"
+			"uaxis" "[1 0 0 0] 0.25"
+			"vaxis" "[0 0 -1 256] 0.25"
+			"rotation" "0"
+			"lightmapscale" "16"
+			"smoothing_groups" "0"
+		}
+		editor
+		{
+			"color" "0 226 175"
+			"visgroupshown" "1"
+			"visgroupautoshown" "1"
+		}
+	}
